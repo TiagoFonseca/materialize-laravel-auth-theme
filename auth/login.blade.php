@@ -14,7 +14,7 @@
         <form role="form" method="POST" action="{{ url('/login') }}">
           <div class="row">
             <div class="input-field col s12">
-              <input type="email" name="email" type="text">
+              <input type="email" name="email">
               <label for="email">Email Address</label>
             </div>
           </div>

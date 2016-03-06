@@ -28,7 +28,7 @@
           <div class="row">
             <div class="input-field col s12">
               <input type="password" name="password_confirmation">
-              <label for="password">Password</label>
+              <label for="password">Confirm Password</label>
             </div>
           </div>
           <div class="row">
