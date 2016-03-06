@@ -20,7 +20,7 @@
           </div>
           <div class="row">
             <div class="input-field col s12">
-            <input type="password" name="password" type="text">
+            <input type="password" name="password">
             <label for="password">Password</label>
           </div>
           </div>
