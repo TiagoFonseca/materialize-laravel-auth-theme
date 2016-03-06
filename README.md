@@ -1,17 +1,12 @@
-### Laravel Auth Theme Test
-This repo is an exact replica of laravel 5.2 auth views generated when you run this in the command line.
+### Materialize Laravel Auth Theme
+Laravel Auth theme made with [materialize css](http://materializecss.com/). This can be used to replace the default views scaffolded by Laravel 5.2 when you run:-
 ```bash
 $ php artisan make:auth
 ```
 
-The repo provides a basic structure of the auth files, so that anyone can create a template of this type, and use the [Laravel Auth Theme](https://github.com/gangachris/laravel-auth-themes) package to get a an awesome auth them, by simply running.
+To use the theme, add [Laravel Auth Themes](https://github.com/gangachris/laravel-auth-themes) package to your project, follow the installation instructions, then simply run this:-
 
 ```bash
-$ php artisan auth:theme https://github.com/gangachris/default-laravel-auth-theme.git
+$ php artisan auth:theme https://github.com/gangachris/materialize-laravel-auth-theme.git
 ```
-
-```python
-def __init__() {
-
-}
-```
+ LICENSE: MIT
